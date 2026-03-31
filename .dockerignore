@@ -1,0 +1,12 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.log
+.env
+.env.local
+.git
+.vscode
+Dockerfile*
+compose*.y*ml
+backend/data
